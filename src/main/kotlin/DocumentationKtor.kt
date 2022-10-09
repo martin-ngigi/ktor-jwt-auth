@@ -1,3 +1,6 @@
+/**DB**/
+/**UN:martinwainaina PS:0728894883**/
+
 //youtube link -> https://www.youtube.com/watch?v=uezSuUQt6DY&t=2234s
 //ktor github link -> https://github.com/philipplackner/KtorJwtAuth
 //
@@ -20,3 +23,7 @@
 //  Call login
 //  Kolinx.serialization
 //
+
+
+
+//mongodb+srv://<username>:<password>@test.tcxls.mongodb.net/?retryWrites=true&w=majority
